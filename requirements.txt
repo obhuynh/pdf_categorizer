@@ -1,3 +1,9 @@
-PyPDF2
+# GUI and Core Logic
 PySide6
+PyPDF2
 requests
+
+# AI & Machine Learning
+torch
+sentence-transformers
+transformers
